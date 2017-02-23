@@ -13,6 +13,7 @@ import utils.SpeedScroller;
 
 /**
  * Created by HanHailong on 15/9/27.
+ * this change
  */
 public class ClipViewPager extends ViewPager {
 
