@@ -11,6 +11,7 @@ import android.widget.Scroller;
 public class SpeedScroller extends Scroller {
     private int mDuration = 1500;
 
+	//这是我提交的代码
     public SpeedScroller(Context context) {
         super(context);
     }
