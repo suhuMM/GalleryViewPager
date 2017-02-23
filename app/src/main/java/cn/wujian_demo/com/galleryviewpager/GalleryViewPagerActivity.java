@@ -14,7 +14,7 @@ import adapter.TubatuAdapter;
 import utils.ScalePageTransformer;
 import view.ClipViewPager;
 /**
- * Created by wujian on 2016/3/23.
+ * Created by suhu on 2016/3/23.
  * description: 画廊式中间放大效果
  */
 public class GalleryViewPagerActivity extends AppCompatActivity {
