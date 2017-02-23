@@ -15,7 +15,7 @@ import utils.ScalePageTransformer;
 import view.ClipViewPager;
 /**
  * Created by suhu on 2016/3/23.
- * description: 画廊式中间放大效果
+ * description: 画廊式中间放大效果 今天很高兴
  */
 public class GalleryViewPagerActivity extends AppCompatActivity {
     private final static float TARGET_HEAP_UTILIZATION = 0.75f;
